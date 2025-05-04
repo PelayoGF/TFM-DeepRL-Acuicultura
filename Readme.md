@@ -8,14 +8,14 @@ Este repositorio contiene la implementación de un entorno personalizado de acui
 
 ```
 RL-Acuicultura/
-├── Acuicultura_RL.ipynb      # Notebook principal con entorno, entrenamiento y evaluación
+├── PPO_TFM.ipynb             # Notebook principal con entorno, entrenamiento y evaluación
 ├── temperatures.csv          # Dataset de temperaturas semanales del mar
 ├── sale_prices.csv           # Dataset de precios de venta del pescado 
 ├── feed_rates.csv            # Tabla técnica de tasas de crecimiento, alimentación y mortalidad del alimento utilizado
 ├── feed_prices.csv           # Dataset de precios semanales del alimento
 ├── modelo_ppo_masked.zip     # Modelo entrenado  
 ├── README.md                 # Este archivo
-└──  requirements.txt          # Librerías necesarias
+└── requirements.txt          # Librerías necesarias
 ```
 
 ---
