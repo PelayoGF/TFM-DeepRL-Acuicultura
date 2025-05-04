@@ -112,6 +112,7 @@ Los resultados se exportan a `simulacion_modelo.csv` y se grafican automáticame
 ## Autor
 
 Proyecto desarrollado por **Pelayo González Fernández** como parte del Trabajo Fin de Máster (TFM) 2024-2025.
+
 Máster en Ciencia de Datos.
 
 Universidad de Cantabria
