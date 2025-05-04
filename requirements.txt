@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+gymnasium
+optuna
+stable-baselines3
+sb3-contrib
